@@ -2,10 +2,12 @@ body {
     background-color: rgb(196, 235, 158);
 }
 
+
+
 .navbar-brand{
     color: rgb(169, 207, 115);
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: larger;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
 }
 
 .navbar-brand:hover{
