@@ -24,3 +24,8 @@ body {
 .nav-link:hover {
     color: rgb(79, 119, 0);
 }
+
+p{
+    margin: 5%;
+    color: rgb(20, 63, 0);
+}
