@@ -19,8 +19,10 @@ body {
 
 .nav-link{
     color: rgb(169, 207, 115);
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: smaller;
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
     text-decoration: underline;
 }
 
