@@ -138,3 +138,7 @@ h3{
     font-weight: 700;
     font-style: normal;
 }
+
+.list-group-item{
+    color: rgb(129, 139, 85);
+}
