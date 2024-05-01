@@ -191,7 +191,13 @@ footer{
 }
 
 .indexmain{
-    margin: 3%;
+    margin: 2%;
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
+    color: rgb(158, 205, 110);
+    text-align: center;
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
 }
