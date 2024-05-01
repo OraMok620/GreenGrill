@@ -189,3 +189,9 @@ h3{
 footer{
     justify-content: center;
 }
+
+.indexmain{
+    margin: 3%;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
