@@ -129,7 +129,7 @@ h3{
 }
 
 .hours{
-    margin: 5%;
+    margin: 1%;
     border-radius: 10px;
     background-color: rgb(255, 255, 255);
     text-align: center;
@@ -141,4 +141,12 @@ h3{
 
 .list-group-item{
     color: rgb(129, 139, 85);
+}
+
+.oph{
+    text-align: center;
+    font-family: "Exo 2", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
 }
