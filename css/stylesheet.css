@@ -61,9 +61,11 @@ h3{
 
 .menutitle{
     color: rgb(81, 47, 16);
-    font-family: "Bungee", sans-serif;
-    font-weight: 400;
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 700;
     font-style: normal;
+    text-decoration: underline;
 }
 
 .feedback{
@@ -100,4 +102,15 @@ h3{
     font-weight: 600;
     color: rgb(255,255,255)!important; 
     background-color: rgb(51, 75, 20)!important;
+}
+
+.menumeal{
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+li{
+    text-align: center;
 }
