@@ -65,3 +65,39 @@ h3{
     font-weight: 400;
     font-style: normal;
 }
+
+.feedback{
+    margin: 4%;
+    border-radius: 25px;
+    background-color: white;
+    text-align: center;
+}
+
+.mt-5{
+    color: rgb(79, 119, 0);
+    font-weight: bolder;
+}
+
+.form-label{
+    color: rgb(150,171,63);
+    font-size: smaller;
+    font-style: italic;
+}
+
+.btn {
+    font-weight: 600;
+    color: white;
+    background-color: rgb(133, 199, 41);
+}
+
+.btn:hover{
+    font-weight: 600;
+    color: white;
+    background-color: rgb(104, 156, 32);
+}
+
+.btn:active{
+    font-weight: 600;
+    color: rgb(255,255,255)!important; 
+    background-color: rgb(51, 75, 20)!important;
+}
