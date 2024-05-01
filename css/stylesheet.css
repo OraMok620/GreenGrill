@@ -119,3 +119,11 @@ h3{
     font-size: xx-large;
     text-decoration: underline;
 }
+
+.Special{
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    color: rgb(220, 84, 84);
+}
