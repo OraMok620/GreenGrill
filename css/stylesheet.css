@@ -169,7 +169,23 @@ h3{
     background-color: rgb(255, 255, 255);
     color: rgb(39, 80, 27);
     text-align: center;
-    font-family: "Julee", cursive;
-    font-weight: 400;
+}
+
+.aboutfoodbox{
+    font-family: "Merriweather", serif;
+    font-weight: 900;
     font-style: normal;
+}
+
+.mt-5reservation{
+    color: rgb(150,171,63);
+    font-weight: bolder;
+}
+
+.boxlocation{
+    text-align: center;
+}
+
+footer{
+    justify-content: center;
 }
